@@ -17,7 +17,7 @@ My dream is to take part in shaping the future of free software and actively sup
 
 My hobbies are chess and yoga.
 
-
+<img align="center" src="https://www.dropbox.com/s/xh4a5287uszjpkd/skills_word_cloud.png?raw=1">
 
 <!---
 gdamaskos/gdamaskos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
