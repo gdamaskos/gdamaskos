@@ -4,6 +4,8 @@ Enthusiastic computer scientist with 4+ years of experience developing
 websites that facilitate scientific breakthroughs by offering research tools. My
 goal is to deliver clean, maintainable, scalable and well documented code to
 the leading companies in the field.
+
+
 In previous roles, I successfully redeveloped the main application of my group
 by converting it into a cutting edge modern web application and published
 PhD results after organizing them in databases. I work well as part of a team
