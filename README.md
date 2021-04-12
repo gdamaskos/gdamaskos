@@ -9,8 +9,11 @@ the leading companies in the field.
 In previous roles, I successfully redeveloped the main application of my group
 by converting it into a cutting edge modern web application and published
 PhD results after organizing them in databases. I work well as part of a team
-but also independently and I have high sense of responsibility. My hobbies are
-chess and yoga.
+but also independently and I have high sense of responsibility. 
+
+My dream is to take part in shaping the future of free software and actively support digital liberties community.
+
+My hobbies are chess and yoga.
 
 
 
