@@ -16,6 +16,7 @@ but also independently and I have high sense of responsibility.
 My dream is to take part in shaping the future of free software and actively support digital liberties community.
 
 🎓 Master's Degree in Informatics for Life Sciences – Neuroinformatics, 9.5/10
+
 🎓 Bachelor's Degree in Computer Science and Biomedical Informatics, 8.5/10
 
 :seedling: My hobbies are chess and yoga.
