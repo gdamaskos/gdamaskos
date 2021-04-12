@@ -18,6 +18,15 @@ My dream is to take part in shaping the future of free software and actively sup
 My hobbies are chess and yoga.
 
 <img align="center" src="https://www.dropbox.com/s/xh4a5287uszjpkd/skills_word_cloud.png?raw=1">
+<details>
+<summary>Achievements</summary>
+  <ul>
+  <li>I won the award for the higher grade of the first year during my master's
+degree from Foundation for Education and European Civilization</li>
+    <li>I won the award for the higher final grade for my bachelor's degree from
+Greek State Scholarships Foundation</li>
+</ul>
+</details>
 
 <!---
 gdamaskos/gdamaskos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
