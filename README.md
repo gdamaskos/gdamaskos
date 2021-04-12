@@ -1,4 +1,4 @@
-# [![giorgos damaskos header](https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif)]()
+<img align="right" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif">
 
 
 - 👋 Hi, I’m @gdamaskos
