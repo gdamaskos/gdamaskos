@@ -22,7 +22,7 @@ My dream is to take part in shaping the future of free software and actively sup
 
 :seedling: My hobbies are chess and yoga.
 
-<img align="center" src="https://www.dropbox.com/s/xh4a5287uszjpkd/skills_word_cloud.png?raw=1">
+<img align="center" src="https://www.dropbox.com/s/xh4a5287uszjpkd/skills_word_cloudT.png?raw=1">
 <details>
 <summary>Achievements</summary>
   <ul>
