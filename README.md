@@ -3,10 +3,9 @@
 <img align="right" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif">
 Enthusiastic computer scientist with 4+ years of experience developing websites that facilitate scientific breakthroughs by offering research tools. I enjoy setting up, configuring and maintaining a healthy Linux ecosystem for IT infrastructures.
 
+
 In my previous job, I successfully redeveloped the main application of my group by converting it into a cutting edge modern web application. After that, I organized crystallography research results in a Linux database server and developed  a user friendly web application to make the data publicly available.
 I work well as a part of a team and I take responsibility for my tasks, so that I can also work independently.
-
-My hobbies are chess and yoga.
 
 My dream is to take part in shaping the future of free software and actively support digital liberties community.
 
