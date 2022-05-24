@@ -1,11 +1,16 @@
 ## Profile
 
 <img align="right" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif">
-Enthusiastic computer scientist with 4+ years of experience developing websites that facilitate scientific breakthroughs by offering research tools. I enjoy setting up, configuring and maintaining a healthy Linux ecosystem for IT infrastructures.
-<br><br>
-In my previous job, I successfully redeveloped the main application of my group by converting it into a cutting edge modern web application. After that, I organized crystallography research results in a Linux database server and developed  a user friendly web application to make the data publicly available.
-I work well as a part of a team and I take responsibility for my tasks, so that I can also work independently.
-<br><br>
+
+Software Engineer that turned into DevOps Engineer in the Cyber Security sector. I enjoy setting up, configuring and maintaining a healthy Linux ecosystem leveraging Infrastructure-as-Code tools.
+
+Currently, I am expanding my skills in AWS cloud management and configuration using Terraform.
+
+Previously, I reorganized crystallography research results in a Linux database server and developed a user friendly web application to make the data publicly available.
+I work well as a part of a team and I am also self-organized, so that I can work independently.
+
+I have a background in Neuroscience and keep track of latest advances in the field.
+
 My dream is to take part in shaping the future of free software and actively support digital liberties community.
 <br><br>
 🎓 Master's Degree in Informatics for Life Sciences – Neuroinformatics, 9.5/10
