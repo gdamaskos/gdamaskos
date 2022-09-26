@@ -4,7 +4,7 @@
 
 Software Engineer that turned into DevOps Engineer in the Cyber Security sector. I enjoy setting up, configuring and maintaining a healthy Linux ecosystem leveraging Infrastructure-as-Code tools.
 
-Currently, I am expanding my skills in AWS cloud management and configuration using Terraform.
+Currently, I am expanding my skills in google cloud management and configuration using Terraform.
 
 Previously, I reorganized crystallography research results in a Linux database server and developed a user friendly web application to make the data publicly available.
 I work well as a part of a team and I am also self-organized, so that I can work independently.
