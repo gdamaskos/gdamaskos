@@ -2,7 +2,7 @@
 
 <img align="right" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif">
 
-Software Engineer that turned into Site Reliability Engineer. I enjoy setting up, configuring and maintaining a healthy Linux Kubernetes ecosystem leveraging Infrastructure-as-Code tools.
+Software Engineer that turned into Site Reliability Engineer. I enjoy setting up, configuring and maintaining a healthy Kubernetes Linux ecosystem leveraging Infrastructure-as-Code tools.
 
 Currently, I am expanding my skills in cloud management and configuration using Terraform.
 
