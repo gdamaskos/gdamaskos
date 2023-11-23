@@ -7,6 +7,7 @@ Software Engineer that turned into Site Reliability Engineer. I enjoy setting up
 Currently, I am expanding my skills in cloud management and configuration using Terraform.
 
 Previously, I reorganized crystallography research results in a Linux database server and developed a user friendly web application to make the data publicly available.
+<br>
 I am a well organized team player who takes responsibility for his work.
 
 I have a background in Neuroscience and keep track of the new advances in the field.
