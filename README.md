@@ -6,7 +6,7 @@ I am a resourceful Software Engineer who transformed into a Site Reliability Eng
 I enjoy setting up, configuring and maintaining a healthy Kubernetes/Linux ecosystem leveraging Infrastructure-as-Code tools. Currently, I am expanding my skills in cloud infrastructure management and configuration using Terraform.
 I see myself as a well organized team player who takes responsibility for his work.
 <br>
-My dream is to take part in shaping the future of free software and actively support digital liberties community.
+My dream is to take part in linux kernel development.
 <br><br>
 🎓 Master's Degree in Informatics for Life Sciences – Neuroinformatics, 9.5/10
 
