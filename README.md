@@ -2,16 +2,10 @@
 
 <img align="right" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif">
 
-Software Engineer that turned into Site Reliability Engineer. I enjoy setting up, configuring and maintaining a healthy Kubernetes Linux ecosystem leveraging Infrastructure-as-Code tools.
-
-Currently, I am expanding my skills in cloud management and configuration using Terraform.
-
-Previously, I reorganized crystallography research results in a Linux database server and developed a user friendly web application to make the data publicly available.
+I am a resourceful Software Engineer who transformed into a Site Reliability Engineer. After my employment with Dutch institutes which empowered many researchers in Life Sciences, I shifted my focus to private sector with the aim to keep making positive impact.
+I enjoy setting up, configuring and maintaining a healthy Kubernetes/Linux ecosystem leveraging Infrastructure-as-Code tools. Currently, I am expanding my skills in cloud infrastructure management and configuration using Terraform.
+I see myself as a well organized team player who takes responsibility for his work.
 <br>
-I am a well organized team player who takes responsibility for his work.
-
-I have a background in Neuroscience and keep track of the new advances in the field.
-
 My dream is to take part in shaping the future of free software and actively support digital liberties community.
 <br><br>
 🎓 Master's Degree in Informatics for Life Sciences – Neuroinformatics, 9.5/10
