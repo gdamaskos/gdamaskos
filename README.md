@@ -25,7 +25,7 @@ Greek State Scholarships Foundation</li>
 </ul>
 </details>
 
-Check out the websites I built in the past: https://ccd.rhpc.nki.nl and https://lahma.pdb-redo.eu
+Check out this websites I built in the past: https://ccd.rhpc.nki.nl
 
 <!---
 gdamaskos/gdamaskos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
