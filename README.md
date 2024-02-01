@@ -7,7 +7,7 @@ I enjoy setting up, configuring and maintaining a healthy Kubernetes/Linux ecosy
 <br>
 I see myself as a well organized team player who takes responsibility for his work.
 <br>
-My dream is to take part in linux kernel development.
+My dream is to take part in Linux kernel development.
 <br><br>
 🎓 Master's Degree in Informatics for Life Sciences – Neuroinformatics, 9.5/10
 
