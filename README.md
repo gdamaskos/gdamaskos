@@ -1,6 +1,6 @@
 ## Profile
 
-<img align="right" src="https://www.dropbox.com/scl/fi/kezt3ava4mqyi6iakmcdh/edtype.gif?rlkey=992o4bfl27lr6hsk0s8rk4ngt&dl=0">
+<img align="right" src="https://www.dropbox.com/scl/fi/kezt3ava4mqyi6iakmcdh/edtype.gif?rlkey=992o4bfl27lr6hsk0s8rk4ngt&raw=1">
 
 I am a resourceful Software Engineer who transformed into a Site Reliability Engineer. After my employment with Dutch institutes which empowered many researchers in Life Sciences, I shifted my focus to private sector with the aim to keep making positive impact.
 I enjoy setting up, configuring and maintaining a healthy Kubernetes/Linux ecosystem leveraging Infrastructure-as-Code tools. Currently, I am expanding my skills in cloud infrastructure management and configuration using Terraform.
