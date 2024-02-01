@@ -4,6 +4,7 @@
 
 I am a resourceful Software Engineer who transformed into a Site Reliability Engineer. After my employment with Dutch institutes which empowered many researchers in Life Sciences, I shifted my focus to private sector with the aim to keep making positive impact.
 I enjoy setting up, configuring and maintaining a healthy Kubernetes/Linux ecosystem leveraging Infrastructure-as-Code tools. Currently, I am expanding my skills in cloud infrastructure management and configuration using Terraform.
+<br>
 I see myself as a well organized team player who takes responsibility for his work.
 <br>
 My dream is to take part in linux kernel development.
