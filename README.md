@@ -13,7 +13,7 @@ My dream is to take part in Linux kernel development.
 
 🎓 Bachelor's Degree in Computer Science and Biomedical Informatics, 8.5/10
 
-:seedling: In my spare time, I practice yoga and learn Dutch!
+:seedling: In my spare time, I workout and learn Dutch!
 
 <img align="center" src="https://www.dropbox.com/s/xh4a5287uszjpkd/skills_word_cloudT.png?raw=1">
 <details>
